@@ -3,20 +3,20 @@
 
 <channel>
   <title>Canal RSS</title>
-  <link>https://www.w3schools.com</link>
+  <link>https://salvadorsamo.github.io/Proyecto/rss.xml</link>
   <description>primer canal</description>
   <language>es</language>
 
   <item>
     <title>Canal RSS 2</title>
     <link>https://soyjak.party</link>
-    <description>xupame la poya guarra</description>
+    <description>real hood shit</description>
   </item>
 
   <item>
     <title>Canal RSS 3</title>
     <link>soyjak.com</link>
-    <description>tercer canal</description>
+    <description>fake ass shit</description>
   </item>
   
 </channel>

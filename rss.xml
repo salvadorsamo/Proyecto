@@ -6,22 +6,22 @@
   <link>https://salvadorsamo.github.io/Proyecto/rss.xml</link>
   <description> </description>
   <language>es</language>
-
+<item>
+    <title>Ahora con canal RSS!*</title>
+    <link>https://salvadorsamo.github.io/Proyecto/Proyecto-index.html</link>
+    <description><![CDATA[ 
+  <img src="capura.png" alt="" />
+]]>
+      <h6>Solo disponible en Internet Explorer</h6>
+    </description>
+  </item>
+  
+  
   <item>
     <title>Nuevo menú degustación disponible</title>
     <link>https://salvadorsamo.github.io/Proyecto/Proyecto-index.html</link>
     <description>Visite nuestra página para ver nuestro nuevo menú</description>
   </item>
-  
-  <item>
-    <title>Ahora con canal RSS!*</title>
-    <link>https://salvadorsamo.github.io/Proyecto/Proyecto-index.html</link>
-    <description><![CDATA[ 
-  <img src="https://psicoterapeutas.eu/imagenes-psicoterapeutas-eu/tests-objetivos.png" alt="" />
-]]></description>
-  </item>
-
-  
-  
+ 
 </channel>
 </rss>

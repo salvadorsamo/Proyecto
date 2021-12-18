@@ -2,22 +2,17 @@
 <rss version="2.0">
 
 <channel>
-  <title>Canal RSS</title>
+  <title>Canal RSS de Tribeca</title>
   <link>https://salvadorsamo.github.io/Proyecto/rss.xml</link>
   <description>primer canal</description>
   <language>es</language>
 
   <item>
-    <title>Canal RSS 2</title>
-    <link>https://soyjak.party</link>
-    <description>real hood shit</description>
+    <title>Nuevo menú degustación disponible</title>
+    <link>https://salvadorsamo.github.io/Proyecto/Proyecto-index.html</link>
+    <description>Visite nuestra página para ver nuestro nuevo menú</description>
   </item>
 
-  <item>
-    <title>Canal RSS 3</title>
-    <link>soyjak.com</link>
-    <description>fake ass shit</description>
-  </item>
   
 </channel>
 </rss>

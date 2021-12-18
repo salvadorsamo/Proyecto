@@ -4,7 +4,8 @@
 <channel>
   <title>Canal RSS de Tribeca</title>
   <link>https://salvadorsamo.github.io/Proyecto/rss.xml</link>
-  <description>primer canal</description>
+  <description>primer canal
+  <img src="https://psicoterapeutas.eu/imagenes-psicoterapeutas-eu/tests-objetivos.png"></description>
   <language>es</language>
 
   <item>
